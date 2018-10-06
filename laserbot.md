@@ -7,6 +7,9 @@ revealOptions:
 ---
 <!-- .slide: data-background="images/minidisc.jpg" -->
 
+
 Decentralized Optical Storage Robot
 # LASERBOT
 ![](images/laserbot.png)
+
+live hackmd https://hackmd.io/hXMnMp_sSHCU1FvmhXrkWQ
