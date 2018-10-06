@@ -7,12 +7,6 @@ revealOptions:
 ---
 <!-- .slide: data-background="images/minidisc.jpg" -->
 
-# LASERBOT
-
 Decentralized Optical Storage Robot
-
----
-
-# Why
-
-this
+# LASERBOT
+![](images/laserbot.png)
