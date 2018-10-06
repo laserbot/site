@@ -12,4 +12,5 @@ Decentralized Optical Storage Robot
 # LASERBOT
 ![](images/laserbot.png)
 
-live hackmd https://hackmd.io/hXMnMp_sSHCU1FvmhXrkWQ
+- live hackmd https://hackmd.io/hXMnMp_sSHCU1FvmhXrkWQ
+- telegram group https://t.me/joinchat/EYAvshEdDkVaPlKF6q5bMA
