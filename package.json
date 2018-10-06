@@ -1,0 +1,21 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "reveal-md -w --port 65456 --disable-auto-open",
+    "build": "reveal-md laserbot.md --static dist/ --static-dirs=images"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laserbot/site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laserbot/site/issues"
+  },
+  "homepage": "https://github.com/laserbot/site#readme"
+}
