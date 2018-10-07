@@ -1,15 +1,6 @@
 ---
 title: Laserbot
-# theme: serif
-# theme: moon
-# theme: night
-# theme: sky
-# theme: white
-# theme: league
 theme: blood
-# theme: simple
-# theme: beige
-# theme: black
 revealOptions:
   transition: convex
   controls: true
@@ -22,35 +13,98 @@ revealOptions:
 
 Decentralized Digital Preservation System
 
+## `laserbot.net`
+---
+
+<!-- .slide: data-background="images/geocities.jpeg" -->
+
+# Digitial Amnesia
+
+#### Long-term archival storage
+
+(but also: IoT, blockchains itself, etc.)
+
+---
+
+# Optics
+
+- Cold storage: facebook stores 160PB at 2kW
+- Also: solar flare resistant (maybe, lol)
+
 ---
 
 <!-- .slide: data-background="images/reprap.png" -->
 
 Free and Open Optical Cold Storage Robot
 
-![](images/laserbot.png)
+<img src="images/laserbot.png" style="border:none"/>
 
 Modeled after the RepRap 3D printer
 
 ---
 
-Check out the simulator
+<!-- .slide: data-background="images/reprap.png" -->
 
-[ROBOSIM](https://serene-goldstine-9371f9.netlify.com/)
+## Gantry Crane
+
+<img src="images/ropes.jpg" style="border:none"/>
+
+Cheap, off the shelf, replicable
+
+---
+
+<!-- .slide: data-background="images/simulator.gif" -->
+
+### [`simulator.laserbot.net`](http://simulator.laserbot.net)
 
 ---
 
-<!-- .slide: data-background="images/sharding.jpg" -->
+<!-- .slide: data-background="images/globe.png" -->
 
-### Sharding
+# All Teh Web
 
-Using Error Correcting Codes
-
-![](images/ecc.png)
-
-https://github.com/tahoe-lafs/zfec
+### *finders* propose URIs
+### *keepers* download & burn
 
 ---
+
+### Cryptoeconomics
+
+- **finders** anonymously propose URIs
+- by putting money into contracts specified by the **keepers**
+- finders put enought money? the **keepers** download & store the resource
+- specific incentives (stakes), ensure that **keepers** don't cheat their storage promises.
+
+(WIP)
+
+---
+
+<!-- .slide: data-background="images/borked.jpg" -->
+
+# Sharding?
+
+<img style="border:none; background:none" src="images/erasure.png"/>
+
+## `tahoe-lafs/zfec`
+
+---
+
+<!-- .slide: data-background="images/noisebridge.jpg" -->
+
+### `Laserbot 💖 Hackerspaces`
+
+(subgoal: Bring crypto community & maker community together)
+
+---
+
+## MAIN ACHIEVEMENT
+
+- Get project off the ground for iteration
+
+- Get ppl interested
+
+---
+
 
 Project Links
 
@@ -58,7 +112,7 @@ Project Links
 - [github/laserbot](https://github.com/laserbot)
 - [hackmd dev notes](https://hackmd.io/hXMnMp_sSHCU1FvmhXrkWQ)
 
-<img style="border: none !important; width:10%;height:10%" src="images/cd-rom.gif"/>
+<img style="border: none !important; background: none; width:10%;height:10%" src="images/cd-rom.gif"/>
 
 ---
 
@@ -74,11 +128,8 @@ Grabbing Disks
 
 ---
 
-Parametric & Cheap
+<!-- Parametric & Cheap -->
 
-<iframe style="height: 50vh; width: 80%" src="https://www.youtube.com/embed/IkM2K7CsiHo" data-autoplay></iframe>
+<iframe style="height: 90vh; width: 80%" src="https://www.youtube.com/embed/IkM2K7CsiHo" data-autoplay></iframe>
 
-Go 2D with more rope 
-
----
-
+<!-- Go 2D with more rope  -->
