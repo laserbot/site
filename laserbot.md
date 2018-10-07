@@ -14,6 +14,9 @@ revealOptions:
 Decentralized Digital Preservation System
 
 ## `laserbot.net`
+
+[Join our telegram chat! 🖖🏾](https://t.me/joinchat/EYAvshEdDkVaPlKF6q5bMA)
+
 ---
 
 <!-- .slide: data-background="images/geocities.jpeg" -->
